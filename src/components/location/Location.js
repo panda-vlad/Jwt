@@ -1,4 +1,4 @@
-import React, { Component } from 'react'
+import React from 'react'
 // Where the data is located
 import preload from '../../data/data'
 // Searches the data
